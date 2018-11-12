@@ -1,12 +1,24 @@
 html {
   background-color: #c9b5ab;
   font-family: PT Serif;
-  line-height: .8rem;
+  line-height: 1.125;
   width: 100%;
+}
+
+nav ol {
+  list-style-type: none;
 }
 
 nav a{
   color: #8f2440;
+  text-decoration: none;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+nav a:hover {
+color: #b42885;
+text-decoration: underline
 }
 
 img {
@@ -26,4 +38,19 @@ h1 {
 
 h2 {
   color: #3f1622;
+}
+
+.germination {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+.cite {
+  font-size: .8rem;
 }
