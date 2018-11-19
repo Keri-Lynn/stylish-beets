@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: "PT Serif", serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: normal;
   line-height: 1.5;
   width: 100%;
@@ -27,13 +27,12 @@ img {
 }
 
 figcaption {
-  font-family: "PT Serif", serif;
+  font-family: "PT Serif", sans-serif;
   font-style: italic;
   text-align: center;
 }
 
 h1 {
-  font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-size: 1.5rem;
   font-weight: bold;
@@ -43,19 +42,14 @@ h2 {
   color: #3f1622;
 }
 
-a {
-  text-decoration: none;
-  font-size: 1.5rem;
-}
-
 .germination {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-style: normal;
   font-weight: bold;
 }
 
 .habits {
-  font-family: "PT Serif", serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   font-style: italic;
 }
